@@ -8,12 +8,12 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-public class TestCalculator {
+//public class TestCalculator {
  
 	private math.Calculator calc;
   
 	 @Before
-	// public void setUp() throws Exception {
+	 public void setUp() throws Exception {
 		 calc = new math.Calculator();
 	 }
  
