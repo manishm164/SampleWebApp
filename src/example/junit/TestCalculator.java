@@ -8,7 +8,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 
-//public class TestCalculator {
+public class TestCalculator {
  
 	private math.Calculator calc;
   
